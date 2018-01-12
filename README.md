@@ -1,20 +1,22 @@
-# Starter for Bootstrap 4 with Webpack and Sass
+# Starter for Bootstrap 4 with Webpack, Babel and Sass
 ## How do I use?
-First you clone this repository than you run the following commands on your terminal console.
+First you clone this repository than you run the following commands on your terminal.
 
 ```
 npm install
-npm dev
+npm run dev
 ```
 
 ### For production you should run
 ```
-npm build
+npm run build
 ```
 
 ### You can also watch your files
 
 ```
-npm watch
+npm run watch
 ```
+
+### Finally, start to code!
 
